@@ -1,7 +1,7 @@
-# docker-ipc
-docker inter process communication (IPC)
+# docker-iac
+docker inter application communication (IAC)
 
-This project is used to evaluate approaches of how to communicate between processes running in a docker environment.
+This project is used to evaluate approaches of how to communicate between application running in a docker environment.
 
 ## Getting Started
 
